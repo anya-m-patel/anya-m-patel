@@ -13,9 +13,9 @@ I’m passionate about creating technology that's practical, user-focused, and g
 
 ### Skills
 **Languages:** JavaScript, Python, Java, SQL, HTML/CSS  
+
 **Frameworks & Tools:** React, Node.js, Express, Android Studio, Git  
 
 
 ### Connect With Me
 You can find me on [LinkedIn](https://www.linkedin.com/in/anyap315/) or reach out via email at `amp638@drexel.edu`.
-**anya-m-patel/anya-m-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
