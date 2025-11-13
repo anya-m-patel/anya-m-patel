@@ -36,6 +36,7 @@ I’m passionate about creating technology that's practical, user-focused, and g
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
 ### Connect With Me
 You can find me on [LinkedIn](https://www.linkedin.com/in/anyap315/) or reach out via email at `amp638@drexel.edu`.
