@@ -40,4 +40,4 @@ I’m passionate about creating technology that's practical, user-focused, and g
 
 ### Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/anyap315/)
--  email `amp638@drexel.edu`.
+- `amp638@drexel.edu`.
