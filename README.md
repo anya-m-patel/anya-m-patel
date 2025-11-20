@@ -1,7 +1,7 @@
 ## Hey, I'm Anya 👋
 
 ### About Me
-I’m a sophomore at Drexel University majoring in Computer Science and currently working as a Full Stack (MERN) and UX/AI Co-op at **Intealth**.  
+I’m a sophomore at Drexel University majoring in Computer Science and currently working as a Full Stack (MERN) and UX+AI Co-op at **Intealth**.  
 
 I’m passionate about creating technology that's practical, user-focused, and grounded in good design. My experience spans both development and research, and I enjoy exploring how systems thinking and user experience can come together to create intuitive solutions.
 
@@ -39,4 +39,5 @@ I’m passionate about creating technology that's practical, user-focused, and g
 ----
 
 ### Connect With Me
-You can find me on [LinkedIn](https://www.linkedin.com/in/anyap315/) or reach out via email at `amp638@drexel.edu`.
+- [LinkedIn](https://www.linkedin.com/in/anyap315/)
+-  email `amp638@drexel.edu`.
