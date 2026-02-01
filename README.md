@@ -11,7 +11,7 @@ I’m passionate about creating technology that's practical, user-focused, and g
 - **NASA RASC-AL** — Modeled function allocation and human-system interaction for advanced space systems  
 - **Hack4Impact (IFAM)** — Developed backend features for nonprofit-focused applications  
 - **SAVR** — Created a food pantry app that reduces food waste through smart recipe recommendations  
-- **Vaxination** — Designed a vaccination awareness platform to improve accessibility and information flow  
+- **VaxiNation** — Designed a vaccination awareness platform to improve accessibility and information flow  
 
 ---
 
